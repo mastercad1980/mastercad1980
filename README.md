@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mastercad1980
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning java
-- 💞️ I ask for the help of experienced java developers to become a better person for me. Thanks.
+- 💞️ I'm asking for help from experienced java developers to get better. Thanks.
 - 📫 How to reach me mastercad@rambler.ru
 
 <!---
